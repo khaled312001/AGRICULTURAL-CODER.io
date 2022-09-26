@@ -1223,7 +1223,7 @@ LOADER
      color: red;
 }
  .footer-box {
-     background: #072745;
+     background: #1c9710;
      padding: 50px 0;
      text-align: center;
 }
@@ -1377,7 +1377,7 @@ LOADER
      float: left;
 }
  .theme_bg {
-     background: #07528d;
+     background: #6dbe2b;
 }
  h3.small_heading {
      font-size: 35px;
@@ -1391,7 +1391,7 @@ LOADER
      margin-bottom: 30px;
 }
  .carousel a.carousel-control-prev {
-     background: #2a6a9c;
+     background: #2c9c2a;
      opacity: 1;
      width: 50px;
      height: 50px;
@@ -1400,7 +1400,7 @@ LOADER
      left: 2%;
 }
  .carousel a.carousel-control-next {
-     background: #2a6a9c;
+     background: #549c2a;
      opacity: 1;
      width: 50px;
      height: 50px;
@@ -1427,7 +1427,7 @@ LOADER
      margin: 0 5px;
 }
  .footer_bottom {
-     background: #05223d;
+     background: #17750e;
      padding: 15px 0;
 }
  .footer_bottom p.crp {
